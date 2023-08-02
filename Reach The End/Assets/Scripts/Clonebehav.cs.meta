@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 02618155775882e41be60b4aed47f1c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - altin: {fileID: 2849016322286535746, guid: 24276fa5637a42f488a0eafb1d7ecb13, type: 3}
+  - player: {fileID: 603332080619655149, guid: 3a03f6fa3d0836f42bbb2e814fba25e2, type: 3}
+  - araba1: {fileID: 6888674876738110407, guid: e431cfe00c3f12248829f0f440ed529a,
+      type: 3}
+  - robot1prop: {fileID: 1724090439624623169, guid: 76fa7df8a349cb84ea6bfec960ebfd1b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
